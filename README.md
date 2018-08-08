@@ -10,6 +10,16 @@ These are algorithms for sorting arrays
 
 ### Insertion Sort
 
+## Search Algorithms
+
+Algorithms for searching arrays
+
+### Linear Search
+
+### Binary Search
+
+### Jump Search
+
 ## Built With
 
 * Eclipse for Java (https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers)
